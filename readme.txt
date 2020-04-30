@@ -1,6 +1,6 @@
 Congratulations !
 
-edit21
+merged
 
 You have successfully
 connected to the git server.
