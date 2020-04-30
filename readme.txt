@@ -1,4 +1,6 @@
 Congratulations !
 
-You have successfully ]
+edit22
+
+You have successfully 
 connected to the git server.
